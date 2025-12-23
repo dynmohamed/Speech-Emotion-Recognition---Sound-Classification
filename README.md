@@ -27,6 +27,6 @@ This project implements a Long Short-Term Memory (LSTM) model for recognizing em
 To get started, clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/yourusername/Speech-Emotion-Recognition.git
+git clone https://github.com/dynmohamed/Speech-Emotion-Recognition---Sound-Classification.git
 cd Speech-Emotion-Recognition
 pip install -r requirements.txt
